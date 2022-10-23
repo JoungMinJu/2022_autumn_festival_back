@@ -30,11 +30,12 @@ https://github.com/LikeLion-at-DGU/2022_autumn_festival_front
 ## 서비스 내용
 <br><br>
 ### 랜딩 페이지
-![KakaoTalk_20221024_005340899](https://user-images.githubusercontent.com/81295661/197402824-5c161f9e-20a8-4473-83c6-010547f422ec.png)
+<img src = "https://user-images.githubusercontent.com/81295661/197402824-5c161f9e-20a8-4473-83c6-010547f422ec.png" width="30%" height="30%">
 
 <br><br>
 
 ### 공지사항
+<img src = "https://user-images.githubusercontent.com/81295661/197402824-5c161f9e-20a8-4473-83c6-010547f422ec.png" width="30%" height="30%">
 ![image](https://user-images.githubusercontent.com/81295661/197403184-3a999fd5-c841-4c7f-aba6-68eea10b66c6.png)
 
 <br><br>
