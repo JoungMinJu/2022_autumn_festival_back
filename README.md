@@ -52,7 +52,7 @@ https://github.com/LikeLion-at-DGU/2022_autumn_festival_front
 <br><br>
 
 ### 부스 검색
-![KakaoTalk_20221024_005428124](https://user-images.githubusercontent.com/81295661/197402923-aeb95d64-837d-45bb-8994-6a9945fe9046.png)
+![KakaoTalk_20221024_005428124_02](https://user-images.githubusercontent.com/81295661/197404031-3fd231f8-a723-4d0a-b425-57d74e386d52.jpg)
 
 위치, 부스명, 부스 메뉴명 을 기반으로 부스를 검색할 수 있도록 구현하였습니다.
 
