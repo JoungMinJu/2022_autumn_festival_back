@@ -17,6 +17,7 @@
 - AWS EC2 
 - Docker
 
+
 ### 프론트엔드 레포지토리
 https://github.com/LikeLion-at-DGU/2022_autumn_festival_front
 
@@ -26,6 +27,10 @@ https://github.com/LikeLion-at-DGU/2022_autumn_festival_front
 
 ### API 명세서
 ![image](https://user-images.githubusercontent.com/81295661/197403494-0f980290-1128-4948-b8db-20d5ee47219e.png)
+
+### ERD
+![image](https://user-images.githubusercontent.com/81295661/213106908-d1c8988d-faa5-4ce2-9ad4-9c3d5b87e0db.png)
+
 
 
 <br><br><br><br>
