@@ -7,7 +7,7 @@
 3년만에 개최되는 축제인만큼 학우분들이 한눈에, 더 빠르게 정보를 모아볼 수 있도록 사이트를 구현했습니다. <br>
 실제 배포를 진행하여 3일간 약 1.2만명의 사용자를 확보하였습니다 :)
 
-<br><br><br><br>
+<br><br>
 
 ## 개발 내용 
 
@@ -21,6 +21,7 @@
 https://github.com/LikeLion-at-DGU/2022_autumn_festival_front
 
 ### 시스템 구조도
+![image](https://user-images.githubusercontent.com/81295661/213070505-01a6387b-ff6b-44e6-ac83-b13af7606bc8.png)
 
 
 ### API 명세서
